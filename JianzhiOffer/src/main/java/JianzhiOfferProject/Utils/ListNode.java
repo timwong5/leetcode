@@ -5,11 +5,11 @@ package JianzhiOfferProject.Utils;
  * @date 2022-09-15 21:26
  */
 public class ListNode {
-    int val;
+    public int val;
 
     public ListNode next;
 
-    ListNode(int x) {
+    public ListNode(int x) {
         val = x;
     }
 }
